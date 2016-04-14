@@ -1,8 +1,15 @@
 # AmazingPiano
-Lviv Polytecnic University/n
-Software development department/n
-"PI"-34/n
-Taras Varvariuk/n
-Bohdan Baranow/n
-Marian Hunchak/n
-Pavlo Voroniak/n
+Lviv Polytecnic University
+
+Software development department
+
+"PI"-34
+
+Taras Varvariuk
+
+Bohdan Baranow
+
+Marian Hunchak
+
+Pavlo Voroniak
+
